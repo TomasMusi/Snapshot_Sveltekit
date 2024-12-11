@@ -1,39 +1,34 @@
-# sv
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
-## Creating a project
-
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
 # Snapshot_Sveltekit
+
+The goal of this page was to learn the Snapshot Library. I found out that Snapshot Library works on the basis of history, so if we go to a "new page" it will load a new history and if we go back not by arrows, but for example by navigation, the data will not be saved. If we want to save the data we have to go back in the history according to the arrows and Snapshot will return the data from the Session storage array.
+
+
+## Authors
+
+- [@TomasMusi](https://github.com/TomasMusi)
+
+
+
+
+## Documentation
+
+- [Snapshot](https://svelte.dev/docs/kit/snapshots) 
+
+
+
+
+## 🛠 Skills
+HTML, Tailwindcss, Sveltekit, Typescript
+
+## Lessons Learned
+
+I learned the basics of Snapshot
+## Screenshot
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at tomas.musilmt@gmail.com
+
