@@ -26,6 +26,7 @@ HTML, Tailwindcss, Sveltekit, Typescript
 I learned the basics of Snapshot
 ## Screenshot
 
+![Screenshot from 2024-12-11 14-10-15](https://github.com/user-attachments/assets/08531830-27e4-4226-b7f4-5839190ac0a2)
 
 
 ## Feedback
